@@ -55,4 +55,4 @@ Open an elevated PowerShell console on the Master Server:
 
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-.\Get-NBUHealthDashboard-Bulletproof.ps1
+.\Get-NBUHealthDashboard.ps1
