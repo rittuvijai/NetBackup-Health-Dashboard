@@ -1,3 +1,5 @@
+**An automated, read-only PowerShell operational health check and exception-based monitoring dashboard for Veritas NetBackup 8.x, 9.x, and 10.x enterprise environments.**
+
 # NetBackup Enterprise Operational Health Dashboard
 
 A unified, read-only PowerShell monitoring and compliance engine for Veritas NetBackup master and media server environments.
