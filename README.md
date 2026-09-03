@@ -48,6 +48,10 @@ Designed for backup administrators and operations teams, this script performs an
 * **PowerShell:** Windows PowerShell 5.1 or PowerShell 7+.
 * **Execution Privileges:** Must be executed with administrative privileges on the Master/Primary Server.
 
+## Author
+**Rittu Vijai** — Senior Cloud Ops & Automation Engineer | Azure Observability | Defender Endpoint | KQL (Dallas-Fort Worth Metroplex)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rittuvijai)
+
 ---
 
 ## Usage
@@ -59,6 +63,3 @@ Open an elevated PowerShell console on the Master Server:
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\Get-NBUHealthDashboard.ps1
 
-## Author
-**Rittu Vijai** — Senior Cloud Ops & Automation Engineer | Azure Observability | Defender Endpoint | KQL (Dallas-Fort Worth Metroplex)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rittuvijai)
