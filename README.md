@@ -58,3 +58,7 @@ Open an elevated PowerShell console on the Master Server:
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\Get-NBUHealthDashboard.ps1
+
+## Author
+**Rittu Vijai** — Senior Cloud Ops & Automation Engineer | Azure Observability | Defender Endpoint | KQL (Dallas-Fort Worth Metroplex)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rittuvijai)
